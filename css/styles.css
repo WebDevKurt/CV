@@ -208,7 +208,8 @@ hr{
   .skill-image{
     width: 32%;
     float: left;
-    margin: 1%
+    margin: 1%;
+    margin-bottom: 2%;
   }
 
   .skill-image2{
