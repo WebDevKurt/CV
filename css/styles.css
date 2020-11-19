@@ -12,9 +12,17 @@ body{
   padding: 100px;
 }
 
-h1{
+.container-fluid{
+  text-align: center;
+}
+
+.middle-container{
+  text-align: center;
+}
+
+.toph1{
   font-size: 5.625rem;
-  margin: 50px auto -50px auto;
+  margin: 50px auto -20px auto;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
 }
@@ -49,15 +57,16 @@ p{
   line-height: 2;
 }
 
-hr{
+.breaker{
   border: dotted #EAF6F6 6px;
   border-bottom: none;
-  width: 3%;
+  width: 5%;
   margin: 100px auto;
 }
 
 .profile-pic{
   width: 20%;
+  padding-bottom: 15px;
 }
 
 .middle-container{
@@ -87,7 +96,7 @@ hr{
 
 .skill-row{
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 150px auto 150px auto;
   text-align: left;
 }
 
@@ -177,14 +186,14 @@ hr{
 
   .mountain{
     margin: auto;
-    width: 120%
+    width: 110%
   }
 
   .profile-pic{
     width: 40%;
   }
 
-  h1{
+  .toph1{
     font-size: 5.5rem;
   }
 
