@@ -150,6 +150,11 @@ hr{
     text-align: center;
   }
 
+  .top-container{
+    padding: 80px;
+
+  }
+
   .cloud{
     width: 25%;
   }
@@ -166,9 +171,13 @@ hr{
     left: 150px;
   }
 
+  .toph2{
+    margin-bottom: 0;
+  }
+
   .mountain{
     margin: auto;
-    width: 200%
+    width: 120%
   }
 
   .profile-pic{
@@ -185,6 +194,11 @@ hr{
 
   h3{
     font-size: 2.5rem;
+    margin-bottom: 0;
+  }
+
+  hr{
+    width: 6%;
   }
 
   p{
@@ -192,17 +206,18 @@ hr{
   }
 
   .skill-image{
-    width: 33%;
+    width: 32%;
     float: left;
+    margin: 1%
   }
 
   .skill-image2{
-    width: 35%;
+    width: 36%;
     float: right;
   }
 
   .skill-image3{
-    width:28%;
+    width:26%;
     float: left;
     margin: 0 4% 5% 2%;
   }
